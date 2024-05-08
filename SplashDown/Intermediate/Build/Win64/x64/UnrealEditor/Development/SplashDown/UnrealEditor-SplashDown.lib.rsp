@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SplashDown.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kilia\OneDrive\Bureau\Documents\Unreal Projects\SplashDown\Intermediate\Build\Win64\x64\SplashDownEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\kilia\OneDrive\Bureau\Documents\Unreal Projects\SplashDown\Intermediate\Build\Win64\x64\UnrealEditor\Development\SplashDown\SplashDown.cpp.obj"
+"C:\Users\kilia\OneDrive\Bureau\Documents\Unreal Projects\SplashDown\Intermediate\Build\Win64\x64\UnrealEditor\Development\SplashDown\Default.rc2.res"
+/OUT:"C:\Users\kilia\OneDrive\Bureau\Documents\Unreal Projects\SplashDown\Intermediate\Build\Win64\x64\UnrealEditor\Development\SplashDown\UnrealEditor-SplashDown.lib"
